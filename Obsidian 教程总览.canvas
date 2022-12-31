@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"7415d6ca956e81ad","x":3160,"y":-480,"width":600,"height":1600,"color":"4","type":"group","label":"后续跟进工具"},
+		{"id":"fb8bce1d612649a2","x":250,"y":1934,"width":1311,"height":1416,"color":"3","type":"group","label":"内容输出"},
+		{"id":"ad7ade8a5e4e0396","x":1001,"y":692,"width":400,"height":428,"color":"4","type":"group","label":"AI辅助工具"},
+		{"id":"a67cfb5043331b55","x":250,"y":399,"width":450,"height":1387,"type":"group","label":"本体功能详解"},
+		{"id":"1479eafdfb5729ac","x":266,"y":418,"width":400,"height":400,"type":"file","file":"ObsidianLesson/工作区-Obsdian.md"},
+		{"id":"2e24ac73d7b99fa2","x":266,"y":874,"width":400,"height":400,"type":"file","file":"ObsidianLesson/Obsidian_PPT用法.md"},
+		{"id":"d6d00c9beb417709","x":266,"y":1326,"width":400,"height":400,"type":"file","file":"ObsidianLesson/Obsidian 白板.md"},
+		{"id":"ec720e2f6c0634f3","x":1490,"y":697,"width":400,"height":428,"color":"4","type":"group","label":"其他工具"},
+		{"id":"9b6a01aced45dd16","x":1001,"y":98,"width":890,"height":462,"type":"group","label":"同步方案"},
+		{"id":"1768aaf94878ee4b","x":1021,"y":118,"width":400,"height":400,"color":"4","type":"file","file":"ObsidianLesson/Obsidian同步方案-共建向.md"},
+		{"id":"020088ede23c8101","x":1471,"y":118,"width":400,"height":400,"color":"4","type":"file","file":"ObsidianLesson/Obsidian同步方案-个人向.md"},
+		{"id":"3a21932433de8d1f","x":-440,"y":-491,"width":400,"height":839,"color":"#3798e1","type":"file","file":"ObsidianLesson/Obsidian 简明指南-0%.md"},
+		{"id":"916e99d6ff1ad8e4","x":266,"y":-483,"width":400,"height":653,"color":"1","type":"file","file":"ObsidianLesson/Obsidian 基本输入试验场-25%.md"},
+		{"id":"7840a98b4d3fbf59","x":1004,"y":-480,"width":1774,"height":443,"color":"#f9df80","type":"group","label":"插件详解"},
+		{"id":"b39812fba5dd4b23","x":1024,"y":-460,"width":400,"height":403,"color":"4","type":"file","file":"ObsidianLesson/Obsidian-插件实验场.md"},
+		{"id":"8ae7268dcffc8f1a","x":1474,"y":-460,"width":400,"height":400,"type":"file","file":"ObsidianLesson/Easy Typing.md"},
+		{"id":"f0b54014ab5ce9b1","x":-440,"y":-680,"width":400,"height":50,"color":"5","type":"text","text":"Obsidian 本质"},
+		{"id":"69f89aba3c661d39","x":1021,"y":-1225,"width":400,"height":400,"type":"file","file":"ObsidianLesson/Journey.md"},
+		{"id":"bb801d387340ac97","x":277,"y":1984,"width":400,"height":400,"type":"file","file":"Pandoc Plugin.md"},
+		{"id":"92e46159bc408f4b","x":1920,"y":-460,"width":400,"height":400,"type":"file","file":"ObsidianLesson/Mindmap-Obsidian.md"},
+		{"id":"9f83a4544f65af9c","x":2360,"y":-457,"width":400,"height":400,"type":"file","file":"ObsidianLesson/Flashcards.md"},
+		{"id":"66884e7594c2b4f1","x":275,"y":2442,"width":631,"height":677,"type":"group","label":"自动化"}
+	],
+	"edges":[
+		{"id":"d5dd7563aa93ed9f","fromNode":"3a21932433de8d1f","fromSide":"right","toNode":"916e99d6ff1ad8e4","toSide":"left"},
+		{"id":"321d53754f74c615","fromNode":"916e99d6ff1ad8e4","fromSide":"right","toNode":"1768aaf94878ee4b","toSide":"left"},
+		{"id":"01f80c0eb61c60ac","fromNode":"916e99d6ff1ad8e4","fromSide":"right","toNode":"b39812fba5dd4b23","toSide":"left"},
+		{"id":"8c74aa38e354427d","fromNode":"916e99d6ff1ad8e4","fromSide":"bottom","toNode":"a67cfb5043331b55","toSide":"top"}
+	]
+}
