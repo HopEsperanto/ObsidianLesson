@@ -1,5 +1,5 @@
 #🤖️AI 
-图一乐，实际上就是利用 [[Custom Frame]] 将 [[ChatGPT]] 和 [[PlaygroundAI]] 的网页排布在一起了。
+图一乐，实际上就是利用 [[Custom Frames]] 将 [[ChatGPT]] 和 [[PlaygroundAI]] 的网页排布在一起了。
 
 ## 实用范例
 ### ChatGPT 内容

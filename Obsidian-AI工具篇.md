@@ -1,7 +1,7 @@
 #🤖️AI #Obsidian #addon 
 
 - [[AI generate text]]
-- 使用 [[ Custom Frame]]
+- 使用 [[ Custom Frames]]
 	- [[PlaygroundAI]]
 	- [[ChatGPT]]
 

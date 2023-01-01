@@ -23,8 +23,8 @@
 - 
 
 ## 共建指南
-### [[Freesfilesync]]
-![[Freesfilesync]]
+### [[Freefilesync]]
+![[Freefilesync]]
 
 ### 需要解决的疑问
 ![[文章模版案例1]]

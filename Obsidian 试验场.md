@@ -72,23 +72,18 @@ Obsidian 使用 [[Markdown]] 语法作为文本编辑时的语言，使用规定
 ![[Easy Typing]]
 
 ## 推荐插件
-### [[日记-Obsidian]]
-![[日记-Obsidian]]
+[[日记-Obsidian]]
 
-### [[工作区-Obsdian]]
-![[工作区-Obsdian]]
+[[工作区-Obsdian]]
 
-### [[Mindmap-Obsidian]]
-![[Mindmap-Obsidian]]
+[[Mindmap-Obsidian]]
 
-### [[Flashcards]]
-![[Flashcards]]
+[[Flashcards]]
 
-### [[Obsidian Memos]]
-![[Obsidian Memos]]
+[[Obsidian Memos]]
 
-### [[Tag Wrangler]]
-![[Tag Wrangler]]
+[[Tag Wrangler]]
+
 
 
 
