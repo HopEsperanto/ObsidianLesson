@@ -5,4 +5,4 @@
 	- [[PlaygroundAI]]
 	- [[ChatGPT]]
 
-详见 [[Obsidian 版的 NovelAI😋]]
+详见 [[Obsidian 版的 NovelAI]]
