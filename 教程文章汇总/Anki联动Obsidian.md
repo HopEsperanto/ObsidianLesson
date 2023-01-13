@@ -17,7 +17,7 @@ cards-deck: ObsidianLesson::教程文章汇总
         - 在菜单栏-工具-插件中**点击获取插件**
         - 在代码中输入 `2055492159`，安装**AnkiConnect**
         - 双击 [[AnkiConnect]] 打开 AnkiConnect 的设置
-            - ![[Pasted image 20230102083434.png]]
+            - ![](https://raw.githubusercontent.com/HopEsperanto/ob-pic-cloud/main/20230110185056.png)
         - 复制后文字段，点击确定
 
 ```

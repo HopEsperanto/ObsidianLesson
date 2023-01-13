@@ -1,5 +1,5 @@
 # ObsidianLesson
- 用来给大家提供共建体验的Obsidian仓库
+ 用来给大家提供共建体验的Obsidian仓库，此文件是用于Github，不参与Github共建的小伙伴可以自行删除。
 
 ## 关于Obsidian配置文件的同步问题
 经过同步的体验对比和操作，决定让大家手动解压配置文件，Github只用于同步Markdown文档。

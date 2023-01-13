@@ -10,7 +10,7 @@ Obsidian 是一款跨平台（PC、MAC、Linux、iOS/Android）的个人使用�
 
 ## 相关内容
 ### 教程
-- [[Obsidian 简明指南-0%]]
+- [[0%-Obsidian 简明指南]]
 - [Ob新手入门必读——常见Q&A（持续建设ing...请勿在此回复及提问） - 疑问解答 - Obsidian 中文论坛](https://forum-zh.obsidian.md/t/topic/3222)
 
 ### 使用案例
