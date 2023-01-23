@@ -29,7 +29,7 @@
 
 #### 同步方案
 [[Obsidian同步方案-个人向]]
-[[Obsidian同步方案-共建向]]
+[[Obsidian同步方案-团队向]]
 
 #### 发布功能
 [Flashcard使用方法](https://obsius.site/5q3e4v2z27253u2s3c23)
