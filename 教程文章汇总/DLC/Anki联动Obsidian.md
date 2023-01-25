@@ -18,7 +18,7 @@ cards-deck: ObsidianLesson::教程文章汇总
         - 在代码中输入 `2055492159`，安装**AnkiConnect**
         - 双击 [[AnkiConnect]] 打开 AnkiConnect 的设置
             - ![](https://raw.githubusercontent.com/HopEsperanto/ob-pic-cloud/main/20230110185056.png)
-        - 复制后文字段，点击确定
+        - Obsidian **进入预览模式**后，下方代码块右上角**鼠标悬停**会出现**复制**按钮，复制替换 Anki 中字段，点击确定
 
 ```
 {

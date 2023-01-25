@@ -1,7 +1,7 @@
 
 #Obsidian #addon 
 [[Obsidian]] 于 1.1.8 版本（12-20-2022）正式发布给全体用户使用的白板功能
-- 使用举例：[[Obsidian 教程总览.canvas]]
+- 使用举例：[[概览-Obsidian 教程总览.canvas]]
 
 ## 基本概念
 ### Note 笔记

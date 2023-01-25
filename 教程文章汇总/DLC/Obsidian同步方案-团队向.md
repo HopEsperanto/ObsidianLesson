@@ -1,15 +1,28 @@
+## 同步方案
+## 传统网盘
 
-## [[Github Desktop]]
+### 企业网盘
+
+### 网盘共享
+
+
+### Github-稍微 Geek 一点的方式
+[[Github Desktop]]
 - 国内方案 
 	- Github 同步到 Gitee
+
+
+## 协作方案
+- 在线协同编辑文档
+	- [[CodiMD]]
 
 ## 发布方案
 
 ### 网页端
-#### Gitbook
--  https://www.gitbook.com/
+#### [[Gitbook]]
+
 - [[Hello算法]]
-	- [Hello 算法](https://www.hello-algo.com/)
+	
 
 #### Obsidian 官方 Publish
 -   [Old Winter的数字花园](https://garden.oldwinter.top/)

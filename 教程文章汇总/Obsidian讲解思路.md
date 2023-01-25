@@ -7,7 +7,7 @@
 
 ### [[空格的使用]]
 
-### Obsidian 的文件本质
+### [[75%-Obsidian 的文件管理]]
 - MD 文件
 	- 通过文件管理器管理和编辑
 
@@ -34,6 +34,7 @@
 #### 发布功能
 [Flashcard使用方法](https://obsius.site/5q3e4v2z27253u2s3c23)
 [[Obsius Publish]]
+[[Gitbook]]
 
 
 ### 软件联动
